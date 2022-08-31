@@ -1,4 +1,4 @@
-### Ola Eu sou Rudson Lima  👋
+### Ola! Eu sou: Rudson Lima  👋
 
 
 - 🔭 Hoje estou estudando Front-end / Back end
