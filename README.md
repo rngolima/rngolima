@@ -19,4 +19,4 @@
 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rngolima&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rngolima&theme=dark)
