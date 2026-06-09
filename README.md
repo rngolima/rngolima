@@ -18,4 +18,3 @@
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 <br><br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rngolima&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
