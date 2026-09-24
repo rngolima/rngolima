@@ -27,19 +27,24 @@ Minha prática de desenvolvimento é orientada a código limpo, padrões arquite
 
 | Categoria | Tecnologias |
 |---|---|
-| **Linguagens & Core** | `Java 17+`, `POO Avançada`, `Java Collections`, `Streams API` |
+| **Linguagens & Core** | `Java 21 LTS`, `Java 17`, `POO Avançada`, `Java Collections`, `Streams API` |
 | **Frameworks & Backend** | `Spring Boot`, `Spring Data JPA`, `Spring Security`, `Hibernate` |
+| **Qualidade & Testes** | `JUnit 5`, `Test-Driven Development (TDD)`, `Testes Unitários` |
 | **Bancos de Dados** | `PostgreSQL`, `MySQL`, Modelagem Relacional, Scripts SQL |
 | **Arquitetura & Boas Práticas** | `Clean Code`, `SOLID`, `Design Patterns GoF`, `REST APIs` |
-| **DevOps, Cloud & Ferramentas** | `Git`, `GitHub`, `AWS (EC2, S3, RDS)`, `Linux`, `Docker`, `VS Code` |
+| **DevOps, Build & Cloud** | `Apache Maven`, `Git`, `GitHub`, `AWS (EC2, S3, RDS)`, `Linux`, `Docker` |
 
 ---
 
 ### 🚀 Vitrine de Projetos em Destaque
 
+#### 🐾 [Simulador de Máquina de Banho Pet - POO & Encapsulamento](https://github.com/rngolima/pet-machine-simulator)
+> Sistema automatizado de banho em pets demonstrando **Encapsulamento Estrito**, proteção de estado contra transbordamentos/níveis negativos, **Exceções de Domínio Semânticas (Fail-Fast)** e **17 Testes Unitários com JUnit 5**.  
+> **Tecnologias:** Java 21 LTS, JUnit 5, Apache Maven, Clean Code, Diagramas Mermaid.
+
 #### 🏦 [Simulador Bancário Itaú - POO em Java](https://github.com/rngolima/banco-itau-poo)
 > Núcleo transacional de contas bancárias aplicando os **4 Pilares da POO (Encapsulamento, Herança, Polimorfismo e Abstração)** com regras de crédito, contas especializadas e Clean Code.  
-> **Tecnologias:** Java 17, Arquitetura Limpa, Javadoc profissional, Mermaid Class Diagrams.
+> **Tecnologias:** Java 17+, Arquitetura Limpa, Javadoc profissional, Mermaid Class Diagrams.
 
 #### ☕ [Estudos e Laboratório Java](https://github.com/rngolima/estudos-java)
 > Repositório contínuo de desafios práticos, exercícios de lógica, algoritmos e fundamentos da linguagem Java.
