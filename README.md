@@ -56,6 +56,15 @@ Minha prática de desenvolvimento é orientada a código limpo, padrões arquite
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rngolima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de Rudson no GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rngolima&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" />
+  <a href="https://github.com/rngolima">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rngolima&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rudson" />
+  </a>
+  <a href="https://github.com/rngolima">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rngolima&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rngolima">
+    <img src="https://streak-stats.demolab.com/?user=rngolima&theme=tokyonight&hide_border=true" alt="Sequência de Commits no GitHub" />
+  </a>
 </p>
