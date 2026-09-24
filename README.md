@@ -3,10 +3,10 @@
 # Rudson Lima
 ### Desenvolvedor Java Backend | Java 21 LTS • Spring Boot 3 • PostgreSQL • Spring Security • AWS
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudsonamerico/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudson.olima@gmail.com)
-[![Operação Aprovação](https://img.shields.io/badge/Projeto-Operação%20Aprovação-brightgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/rngolima/operacao-aprovacao)
-[![Bootcamp Itaú](https://img.shields.io/badge/Bootcamp-Ita%C3%BA%20Java%20com%20IA-EC7000?style=for-the-badge&logo=itau&logoColor=white)](https://github.com/rngolima/banco-itau-poo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudsonamerico/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rudson.olima@gmail.com)
+[![Operação Aprovação](https://img.shields.io/badge/Projeto-Operação%20Aprovação-2ea44f?style=flat&logo=spring&logoColor=white)](https://github.com/rngolima/operacao-aprovacao)
+[![Bootcamp Itaú](https://img.shields.io/badge/Bootcamp-Ita%C3%BA%20Java%20com%20IA-EC7000?style=flat&logo=itau&logoColor=white)](https://github.com/rngolima/banco-itau-poo)
 
 </div>
 
@@ -24,42 +24,15 @@ Minha prática de desenvolvimento é orientada a código limpo, padrões arquite
 
 ---
 
-### 🛠️ Stack Tecnológica & Habilidades
+### 🛠️ Tecnologias & Competências
 
-#### ☕ Linguagens de Programação
-![Java 21 LTS](https://img.shields.io/badge/Java%2021%20LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🍃 Frameworks & Backend Corporativo
-![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security 6](https://img.shields.io/badge/Spring%20Security%206-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-#### 🐘 Bancos de Dados & Migrações
-![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL%2016-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-#### 🧪 Qualidade, Arquitetura & Testes
-![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2496ED?style=for-the-badge)
-![SOLID & Clean Code](https://img.shields.io/badge/SOLID%20%26%20Clean%20Code-000000?style=for-the-badge)
-![OpenAPI 3 / Swagger](https://img.shields.io/badge/OpenAPI%203%20/%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-#### ☁️ Nuvem, DevOps & Ferramentas
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+| Área | Tecnologias & Ferramentas |
+| :--- | :--- |
+| **☕ Linguagens** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> **Java 21 LTS** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" /> **SQL** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" height="16" /> **TypeScript** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> **JavaScript** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" /> **Python** |
+| **🍃 Backend & Frameworks** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16" height="16" /> **Spring Boot 3** • **Spring Security 6** • **Spring Data JPA** • **Hibernate** • **RESTful APIs** • **JWT** |
+| **🐘 Bancos de Dados** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" height="16" /> **PostgreSQL 16** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="16" height="16" /> **MySQL** • **Flyway Migrations** |
+| **🧪 Qualidade & Arquitetura** | **JUnit 5** • **MockMvc** • **Clean Architecture** • **SOLID & Clean Code** • **OpenAPI 3 / Swagger** |
+| **☁️ Cloud & Ferramentas** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="22" height="16" /> **AWS** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" height="16" /> **Docker** • **Apache Maven** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" height="16" /> **Git** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" height="16" /> **GitHub** • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" height="16" /> **Linux** |
 
 ---
 
@@ -79,13 +52,8 @@ Minha prática de desenvolvimento é orientada a código limpo, padrões arquite
 
 ---
 
-### 📊 Estatísticas & Atividade no GitHub
+### 📊 Atividade no GitHub
 
-<p align="center">
-  <a href="https://github.com/rngolima">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=rngolima&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rudson" />
-  </a>
-</p>
 <p align="center">
   <a href="https://github.com/rngolima">
     <img src="https://streak-stats.demolab.com/?user=rngolima&theme=tokyonight&hide_border=true" alt="Sequência de Commits no GitHub" />
