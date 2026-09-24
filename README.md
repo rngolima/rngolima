@@ -16,24 +16,50 @@
 
 Profissional de Tecnologia da Informação com sólida vivência em análise e sustentação de sistemas corporativos, infraestrutura e ambientes em nuvem (AWS), atuando no desenvolvimento de soluções backend com foco no ecossistema Java.
 
-Minha prática de desenvolvimento é orientada a código limpo, padrões arquiteturais (SOLID, GoF) e construção de APIs RESTful escaláveis, unindo a precisão da engenharia de software com a experiência prática de quem entende de disponibilidade, segurança e ciclo de vida de aplicações em produção.
+Minha prática de desenvolvimento é orientada a código limpo, padrões arquiteturais (SOLID, GoF, Clean Architecture) e construção de APIs RESTful escaláveis, unindo a precisão da engenharia de software com a experiência prática de quem entende de disponibilidade, segurança e ciclo de vida de aplicações em produção.
 
-- 🎯 **Foco Técnico:** Desenvolvimento Backend, APIs RESTful resilientes, microsserviços e integração de sistemas.
+- 🎯 **Foco Técnico:** Desenvolvimento Backend Java, APIs RESTful resilientes, Monólitos Modulares e Integração de Sistemas.
 - 🎓 **Especialização Contínua:** Bootcamp Itaú - Java com Inteligência Artificial (DIO & Itaú Unibanco).
 - 📍 **Localização:** Recife, Pernambuco - Brasil.
 
 ---
 
-### 🛠️ Stack Tecnológica
+### 🛠️ Stack Tecnológica & Habilidades
 
-| Categoria | Tecnologias |
-|---|---|
-| **Linguagens & Core** | `Java 21 LTS`, `Java 17`, `POO Avançada`, `Java Collections`, `Streams API` |
-| **Frameworks & Backend** | `Spring Boot`, `Spring Data JPA`, `Spring Security`, `Hibernate` |
-| **Qualidade & Testes** | `JUnit 5`, `Test-Driven Development (TDD)`, `Testes Unitários` |
-| **Bancos de Dados** | `PostgreSQL`, `MySQL`, Modelagem Relacional, Scripts SQL |
-| **Arquitetura & Boas Práticas** | `Clean Code`, `SOLID`, `Design Patterns GoF`, `REST APIs` |
-| **DevOps, Build & Cloud** | `Apache Maven`, `Git`, `GitHub`, `AWS (EC2, S3, RDS)`, `Linux`, `Docker` |
+#### ☕ Linguagens de Programação
+![Java 21 LTS](https://img.shields.io/badge/Java%2021%20LTS-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🍃 Frameworks & Backend Corporativo
+![Spring Boot 3](https://img.shields.io/badge/Spring%20Boot%203-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security 6](https://img.shields.io/badge/Spring%20Security%206-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+#### 🐘 Bancos de Dados & Migrações
+![PostgreSQL 16](https://img.shields.io/badge/PostgreSQL%2016-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
+
+#### 🧪 Qualidade, Arquitetura & Testes
+![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![MockMvc](https://img.shields.io/badge/MockMvc-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2496ED?style=for-the-badge)
+![SOLID & Clean Code](https://img.shields.io/badge/SOLID%20%26%20Clean%20Code-000000?style=for-the-badge)
+![OpenAPI 3 / Swagger](https://img.shields.io/badge/OpenAPI%203%20/%20Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+#### ☁️ Nuvem, DevOps & Ferramentas
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -53,14 +79,11 @@ Minha prática de desenvolvimento é orientada a código limpo, padrões arquite
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Atividade no GitHub
 
 <p align="center">
   <a href="https://github.com/rngolima">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=rngolima&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Rudson" />
-  </a>
-  <a href="https://github.com/rngolima">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rngolima&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Utilizadas" />
   </a>
 </p>
 <p align="center">
